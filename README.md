@@ -23,11 +23,11 @@ This document outlines the engineering standards followed at [CirrusLabs](https:
 - [ ] Use [programming language/tool specific standards](#) for consistent code formatting and style.
 - [ ] Follow best practices for error handling, variable naming, and function length.
 
-### [Java](/Technology/Java/README.md)
+- [ ] [Java Best Practices & Standards ](/Technology/Java/README.md)
 
-### [JavaScript](/Technology//Javascript/README.md)
+- [ ] [JavaScript Best Practices & Standards](/Technology//Javascript/README.md)
 
-### [Python](/Technology//Python/README.md)
+- [ ] [Python Best Practices & Standards](/Technology//Python/README.md)
 
 ## Code Review Process
 - [ ] All code changes must go through a code review process.
