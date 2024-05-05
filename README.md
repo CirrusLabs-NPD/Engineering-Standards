@@ -1,5 +1,7 @@
+![Git](/images/documentation.png)
 # Engineering Standards at [CirrusLabs](https://www.cirruslabs.io/)
 
+![Git](/images/folder-tree.png)
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Coding Standards](#coding-standards)
@@ -21,6 +23,7 @@
 This document outlines the engineering standards followed at [CirrusLabs](https://www.cirruslabs.io/) to ensure high-quality code, efficient development processes, and a collaborative working environment.
 
 ## Coding Standards
+![Git](/images/code-style.png)
 - [ ] Use [programming language/tool specific standards](#) for consistent code formatting and style.
 - [ ] Follow best practices for error handling, variable naming, and function length.
 
@@ -40,6 +43,7 @@ This document outlines the engineering standards followed at [CirrusLabs](https:
 - [ ] Address all comments and feedback before merging code into the main branch.
 
 ## Testing Standards
+![Git](/images/testing.png)
 - [ ] Write unit tests for all new code.
 - [ ] Write integration tests for critical functionalities.
 - [ ] Use [testing framework/tool](#) for automated testing.
@@ -54,7 +58,7 @@ This document outlines the engineering standards followed at [CirrusLabs](https:
 - [ ] Follow [Git branching strategy](#) for managing code changes.
 - [ ] Use [commit message guidelines](#13-writing-good-commit-messages) for clear and informative commit messages.
 
-![Git](/images/branching.png)
+![Git](/images/git.png)
 <a name="some-git-rules"></a>
 
 ### 1.1 Some Git rules
@@ -212,6 +216,7 @@ Having a good guideline for creating commits and sticking to it makes working wi
   > Rather than writing messages that say what a committer has done. It's better to consider these messages as the instructions for what is going to be done after the commit is applied on the repository. [read more...](https://news.ycombinator.com/item?id=2079612)
 
 - Use the body to explain **what** and **why** as opposed to **how**.
+
 ## Deployment Process
 - [ ] Use [deployment tool](#) for automated deployments.
 - [ ] Follow [deployment checklist](#) for ensuring smooth deployments.
