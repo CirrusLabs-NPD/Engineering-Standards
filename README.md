@@ -6,15 +6,16 @@
    - [Java](#java)
    - [JavaScript](#javascript)
    - [Python](#python)
-3. [Code Review Process](#code-review-process)
-4. [Testing Standards](#testing-standards)
-5. [Documentation](#documentation)
-6. [Version Control](#version-control)
-7. [Deployment Process](#deployment-process)
-8. [Security Practices](#security-practices)
-9. [Performance Optimization](#performance-optimization)
-10. [Continuous Integration and Deployment (CI/CD)](#continuous-integration-and-deployment-cicd)
-11. [Feedback and Improvement](#feedback-and-improvement)
+3. [Collections](#collections)
+4. [Code Review Process](#code-review-process)
+5. [Testing Standards](#testing-standards)
+6. [Documentation](#documentation)
+7. [Version Control](#version-control)
+8. [Deployment Process](#deployment-process)
+9. [Security Practices](#security-practices)
+10. [Performance Optimization](#performance-optimization)
+11. [Continuous Integration and Deployment (CI/CD)](#continuous-integration-and-deployment-cicd)
+12. [Feedback and Improvement](#feedback-and-improvement)
 
 ## Introduction
 This document outlines the engineering standards followed at [CirrusLabs](https://www.cirruslabs.io/) to ensure high-quality code, efficient development processes, and a collaborative working environment.
@@ -28,6 +29,10 @@ This document outlines the engineering standards followed at [CirrusLabs](https:
 - [ ] [JavaScript Best Practices & Standards](/Technology//Javascript/README.md)
 
 - [ ] [Python Best Practices & Standards](/Technology//Python/README.md)
+
+## Collections
+
+- [ ] [Collections of best practices reference](/REFERENCES.md)
 
 ## Code Review Process
 - [ ] All code changes must go through a code review process.
