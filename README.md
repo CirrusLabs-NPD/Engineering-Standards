@@ -32,7 +32,7 @@ This document outlines the engineering standards followed at [CirrusLabs](https:
 
 ## Collections
 
-- [ ] [Collections of best practices reference](/REFERENCES.md)
+- [ ] [a collection of links for best practice](/REFERENCES.md)
 
 ## Code Review Process
 - [ ] All code changes must go through a code review process.
