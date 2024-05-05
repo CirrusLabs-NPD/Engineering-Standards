@@ -1,5 +1,4 @@
 # Engineering Standards at [CirrusLabs](https://www.cirruslabs.io/)
-![Git](/images/documentation.png)
 
 ## Table of Contents
 ![Git](/images/folder-tree.png)
@@ -34,7 +33,7 @@ This document outlines the engineering standards followed at [CirrusLabs](https:
 - [ ] [Python Best Practices & Standards](/Technology//Python/README.md)
 
 ## Collections (💎 Gem for developers👨‍💻) 
-
+![Git](/images/documentation.png)
 - [ ] [a collection of links for best practice](/REFERENCES.md)
 
 ## Code Review Process
