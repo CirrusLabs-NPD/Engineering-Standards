@@ -217,8 +217,7 @@ Having a good guideline for creating commits and sticking to it makes working wi
 - Use the body to explain **what** and **why** as opposed to **how**.
 
 ## Deployment Process
-- [ ] Use [deployment tool](#) for automated deployments.
-- [ ] Follow [deployment checklist](#) for ensuring smooth deployments.
+- [Refer this page](https://github.com/CirrusLabs-NPD/Engineering-Standards/blob/main/Technology/CI%20CD%20Best%20Practices.md)
 
 ## Security Practices
 - [ ] Regularly update dependencies to address security vulnerabilities.
