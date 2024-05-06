@@ -12,11 +12,10 @@
 5. [Testing Standards](#testing-standards)
 6. [Documentation](#documentation)
 7. [Version Control](#version-control)
-8. [Deployment Process](#deployment-process)
-9. [Security Practices](#security-practices)
-10. [Performance Optimization](#performance-optimization)
-11. [Continuous Integration and Deployment (CI/CD)](#continuous-integration-and-deployment-cicd)
-12. [Feedback and Improvement](#feedback-and-improvement)
+8. [Security Practices](#security-practices)
+9. [Performance Optimization](#performance-optimization)
+10. [Continuous Integration and Deployment (CI/CD)](#continuous-integration-and-deployment-cicd)
+11. [Feedback and Improvement](#feedback-and-improvement)
 
 ## Introduction
 This document outlines the engineering standards followed at [CirrusLabs](https://www.cirruslabs.io/) to ensure high-quality code, efficient development processes, and a collaborative working environment.
@@ -216,9 +215,6 @@ Having a good guideline for creating commits and sticking to it makes working wi
 
 - Use the body to explain **what** and **why** as opposed to **how**.
 
-## Deployment Process
-- [Refer this page](https://github.com/CirrusLabs-NPD/Engineering-Standards/blob/main/Technology/CI%20CD%20Best%20Practices.md)
-
 ## Security Practices
 - [ ] Regularly update dependencies to address security vulnerabilities.
 - [ ] Use [security tool](#) for vulnerability scanning and code analysis.
@@ -228,8 +224,7 @@ Having a good guideline for creating commits and sticking to it makes working wi
 - [ ] Use [performance monitoring tool](#) for tracking and analyzing performance metrics.
 
 ## Continuous Integration and Deployment (CI/CD)
-- [ ] Use [CI/CD tool](#) for automated build, test, and deployment processes.
-- [ ] Implement [continuous integration](#) and [continuous deployment](#) pipelines for faster delivery.
+- [Refer this page](https://github.com/CirrusLabs-NPD/Engineering-Standards/blob/main/Technology/CI%20CD%20Best%20Practices.md)
 
 ## Feedback and Improvement
 - [ ] Encourage feedback from team members to improve engineering standards.
