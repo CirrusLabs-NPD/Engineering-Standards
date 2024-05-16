@@ -44,7 +44,7 @@ This document outlines the engineering standards followed at [CirrusLabs](https:
 ![Git](/images/testing.png)
 - [ ] Write unit tests for all new code.
 - [ ] Write integration tests for critical functionalities.
-- [ ] Use [testing framework/tool](#) for automated testing.
+- [ ] Use [testing framework/tool](/Technology/Unit%20Testing%20Best%20Practices.md) for automated testing.
 
 ## Documentation
 - [ ] Maintain [API documentation](#) for all public endpoints.
@@ -217,14 +217,14 @@ Having a good guideline for creating commits and sticking to it makes working wi
 
 ## Security Practices
 - [ ] Regularly update dependencies to address security vulnerabilities.
-- [ ] Use [security tool](#) for vulnerability scanning and code analysis.
+- [ ] Use [security tool](/Technology//Security%20Best%20Practices.md) for vulnerability scanning and code analysis.
 
 ## Performance Optimization
 - [ ] Profile and optimize code for performance.
 - [ ] Use [performance monitoring tool](#) for tracking and analyzing performance metrics.
 
 ## Continuous Integration and Deployment (CI/CD)
-- [Refer this page](https://github.com/CirrusLabs-NPD/Engineering-Standards/blob/main/Technology/CI%20CD%20Best%20Practices.md)
+- [Refer this page](/Technology/CI%20CD%20Best%20Practices.md)
 
 ## Feedback and Improvement
 - [ ] Encourage feedback from team members to improve engineering standards.
