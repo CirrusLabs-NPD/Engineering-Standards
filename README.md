@@ -7,7 +7,7 @@
    - [Java](#java)
    - [JavaScript](#javascript)
    - [Python](#python)
-   - [C#](#c#)
+   - [C#](#C-Sharp)
 3. [Collections](#collections)
 4. [Code Review Process](#code-review-process)
 5. [Testing Standards](#testing-standards)
@@ -32,7 +32,7 @@ This document outlines the engineering standards followed at [CirrusLabs](https:
 
 - [ ] [Python Best Practices & Standards](/Technology/Python/README.md)
 
-- [ ] [C# Best Practices & Standards](/Technology/C#/README.md)
+- [ ] [C# Best Practices & Standards](/Technology/C-Sharp/README.md)
 
 ## Collections (💎 Gem for developers👨‍💻) 
 ![Git](/images/documentation.png)
