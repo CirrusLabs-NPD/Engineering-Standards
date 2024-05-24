@@ -4,7 +4,7 @@
 - Follow [Git branching strategy](#) for managing code changes.
 - Use [commit message guidelines](#13-writing-good-commit-messages) for clear and informative commit messages.
 
-![Git](./images/git.png)
+![Version Control](./images/git.png)
 
 ### 1.1 Some Git rules
 
