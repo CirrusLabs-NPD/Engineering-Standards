@@ -14,13 +14,6 @@
     <script src="https://unpkg.com/markdown-it-imsize/dist/markdown-it-imsize.min.js"></script>
     <script src="script.js"></script>
     <script>
-      window.onload = function() {
-        const urlParams = new URLSearchParams(window.location.search);
-        const file = urlParams.get('file');
-        if (file) {
-          handleMenuItemClick(file);
-        }
-      };
     </script>
   </head>
   <body>
@@ -42,7 +35,6 @@
           <li class="dropdown">
             <a
               id="mobile-app-menu"
-              href="?file=mdfiles/codingStandards.md"
               class="dropbtn"
               onclick="handleMenuItemClick('mdfiles/codingStandards.md')"
               >Coding Standards
@@ -145,7 +137,7 @@
               id="mobile-signup-menu"
               href="#"
               onclick="handleMenuItemClick('Technology/Unit Testing Best Practices.md')"
-              >Unit Tesing Practices</a
+              >Unit Testing Practices</a
             >
           </li>
           <li>

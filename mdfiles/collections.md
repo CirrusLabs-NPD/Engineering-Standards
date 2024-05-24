@@ -2,4 +2,4 @@
 
 ![Git](./images/documentation.png)
 
-- [a collection of links for best practice](/REFERENCES.md)
+- [a collection of links for best practice](./REFERENCES.md)
