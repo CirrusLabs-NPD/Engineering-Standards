@@ -1,4 +1,4 @@
-![Git](https://github.com/CirrusLabs-NPD/Engineering-Standards/blob/main/images/CL-Logo.jpg)
+![Git](../images/CL-Logo.jpg)
 
 
 ## Introduction
