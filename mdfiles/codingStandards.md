@@ -1,6 +1,6 @@
 ## Coding Standards
 
-![Git](../images/code-style.png)
+![Git](./images/code-style.png)
 
 - Use [programming language/tool specific standards](#) for consistent code formatting and style.
 - Follow best practices for error handling, variable naming, and function length.

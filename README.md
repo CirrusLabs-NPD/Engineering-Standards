@@ -1,7 +1,7 @@
 # Engineering Standards at [CirrusLabs](https://www.cirruslabs.io/)
 
 ## Table of Contents
-![Git](/images/folder-tree.png)
+![Git](images/folder-tree.png)
 1. [Introduction](#introduction)
 2. [Coding Standards](#coding-standards)
    - [Java](#java)
